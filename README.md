@@ -11,3 +11,8 @@
   
  # Findomain
    https://github.com/Findomain/Findomain
+
+# Use
+  Save your target domains in a .txt file & run subdomainenum
+  using ./subdomainenum.sh <domains.txt> 
+  
